@@ -4,7 +4,7 @@ int main(){
 
 //cout <<"Hello world"<< endl;
 // addition 
-// nt a=5;
+// int a=5;
 // int b=10;
 // int sum=a+b;
 // cout<< sum<<endl;
