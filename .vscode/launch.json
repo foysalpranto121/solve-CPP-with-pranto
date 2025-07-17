@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/C++ (problem solving)",
-      "program": "d:/C++ (problem solving)/build/Debug/outDebug",
+      "cwd": "d:/C++ (problem solving)/.vscode",
+      "program": "d:/C++ (problem solving)/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
