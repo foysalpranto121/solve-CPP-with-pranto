@@ -23,6 +23,8 @@ str.compare(str1);
 cout<<str<<endl;
 // find any thing using find keyword 
 cout<<str.find("Daffodil")<<endl;
+// Extract any word
+cout<<str.substr(5,2)<<endl;
 
 cout<<str<<endl;
 cout<<str.at(3)<<endl;
